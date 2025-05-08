@@ -1,11 +1,11 @@
-# Sales-Data-Analysis-for-Shamidan-Enterprises-2016-
+# Basco Nigeria Ltd Performance analysis for 2015 & 2016
 Overview
 -
 This project analyzes customer sales data for Shamidan Enterprises in 2016. It explores trends across months, product categories, states, and customer demographics to derive actionable insights.
 
 Dataset Summary
 -
-Year: 2016
+Year: 2015 & 2016
 Records: Approx. 1,000+
 Key Fields: Date, State, Country, Product Category, Quantity, Cost, Revenue.
 
@@ -29,7 +29,8 @@ Key Insights
 * States like California had the highest contribution to revenue
 * The country with the highest revenue is United States.
 
-![Dashboard two](https://github.com/user-attachments/assets/bc2d39c2-dff4-4620-b612-0814dc6fff4d)
+Dashboard: ![Dashboard three ](https://github.com/user-attachments/assets/2fbd597d-1566-4721-a60c-093253e1116f)
+
 
 Dataset: 
 -
@@ -37,6 +38,6 @@ https://docs.google.com/spreadsheets/d/1fsD9oIp3e98yPzvB8RnuLNLMUfRTX4Fh/edit?us
 
 Technical report:
 -
-[Technical Report_ Sales Data Analysis for Shamidan Enterprises (2016).pdf](https://github.com/user-attachments/files/20088605/Technical.Report_.Sales.Data.Analysis.for.Shamidan.Enterprises.2016.pdf)
+Technical report for Basco: https://docs.google.com/document/d/1Ktn5ZDUyqyHvLo8GyipzPUBr7LtjHxXi-zusPUMIH84/edit?usp=sharing
 
 
